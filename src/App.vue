@@ -46,11 +46,9 @@ export default {
   flex-direction: column;
 }
 .form {
-  /*border: 2px solid;*/
   display: flex;
   flex-direction: column;
-  /*padding: 40px;*/
-  width: 20%;
+
   flex-wrap: wrap;
   align-content: center;
 }
